@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adiprmx&label=views&color=8b949e&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/adiprmx?label=followers&style=flat-square&color=8b949e" alt="github followers" />
-  <img src="https://img.shields.io/badge/laptop-nggak%20punya-f59e0b?style=flat-square" alt="no laptop" />
   <img src="https://img.shields.io/badge/budget-Rp0%2C--forever-f59e0b?style=flat-square" alt="zero budget" />
   <img src="https://img.shields.io/badge/AI%20slop-dilarang%20keras-f59e0b?style=flat-square" alt="no ai slop" />
   <img src="https://img.shields.io/badge/dynamic/json?label=cari%20stars&query=%24.stargazers_count&url=https://api.github.com/repos/adiprmx/cari&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari stars live" />
