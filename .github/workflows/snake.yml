@@ -20,7 +20,7 @@ jobs:
           github_user_name: adiprmx
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=cyan
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=f59e0b
 
       - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
