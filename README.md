@@ -53,19 +53,6 @@ Gue nggak punya laptop. Semua yang gue bangun lahir dari HP — modal internet s
   <img src="https://skillicons.dev/icons?i=js,html,css,py,git,github,markdown&theme=dark&perline=7" alt="tech stack" />
 </p>
 
-### Cara gue kerja
-
-```mermaid
-graph TD
-    A["📱 HP doang"] --> B["🌐 Internet"]
-    B --> C["🚀 Ambisi selangit"]
-    C --> D["🐙 GitHub"]
-    style A fill:#0d1117,stroke:#f59e0b,stroke-width:2px,color:#ffffff
-    style B fill:#0d1117,stroke:#f59e0b,stroke-width:2px,color:#ffffff
-    style C fill:#0d1117,stroke:#f59e0b,stroke-width:2px,color:#ffffff
-    style D fill:#f59e0b,stroke:#f59e0b,stroke-width:2px,color:#0d1117
-```
-
 ### Angka-angka
 
 <p align="center">
@@ -83,21 +70,6 @@ graph TD
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adiprmx/adiprmx/main/assets/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adiprmx/adiprmx/main/assets/github-snake.svg" />
 </picture>
-
-> [!TIP]
-> 🐍 Ular di atas digambar ulang **setiap hari** oleh GitHub Actions dari kotak kontribusiku. Otomatis, Rp0 — sesuai prinsip.
-
-<details>
-<summary><b>Fakta receh</b> — klik buat buka</summary>
-<br>
-
-- 📱 100% nge-dev dari HP. Nggak punya laptop, nggak butuh.
-- 💸 Total pengeluaran semua proyek: **Rp0**.
-- ⚡ Pemegang badge **Quickdraw** — ngebut itu gaya hidup.
-- 🧠 Lagi ngeracik SYNAPSE: AI mandiri tanpa API key pihak ketiga.
-- 🌏 Dari Indonesia, buat dunia.
-
-</details>
 
 <p align="center">
   <a href="https://github.com/adiprmx"><img src="https://img.shields.io/badge/GitHub-%40adiprmx-f59e0b?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
