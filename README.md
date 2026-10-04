@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=190&section=header&text=ADIP%20RMX&fontSize=68&fontColor=f59e0b&animation=fadeIn&fontAlignY=40&desc=code%20from%20phone%20%C2%B7%20zero%20budget%20%C2%B7%20infinite%20ambition&descSize=16&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=190&section=header&text=ADIP%20RMX&fontSize=68&fontColor=f59e0b&animation=fadeIn&fontAlignY=40&desc=code%20from%20phone%20%C2%B7%20infinite%20ambition&descSize=16&descAlignY=62" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1300&color=F59E0B&center=true&vCenter=true&width=600&letterSpacing=0.04em&lines=Halo%2C+gue+adip.;Nge-dev+modal+HP+doang.;Budget+Rp0.+Ambisi+selangit." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1300&color=F59E0B&center=true&vCenter=true&width=600&letterSpacing=0.04em&lines=Halo%2C+gue+adip.;Nge-dev+modal+HP+doang.;Ambisi+selangit." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,15 +16,13 @@
 const adip = {
   nama: "Nadhif",
   panggil: "adip",
-  laptop: null, // nggak punya, nggak butuh
   modal: ["HP", "internet", "ambisi"],
-  budget: "Rp0", // free tier selamanya, no CC
   prinsip: "nol hasil > hasil ngawur",
   lagiGarap: ["CARI", "SYNAPSE", "adip-tools"],
 };
 ```
 
-Gue nggak punya laptop. Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata orang ketinggian. Kalau bisa dibangun gratis, ngapain bayar?
+Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata orang ketinggian. Kalau bisa dibangun gratis, ngapain bayar?
 
 ### Pameran proyek
 
