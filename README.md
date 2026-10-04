@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/github/followers/adiprmx?label=followers&style=flat-square&color=8b949e" alt="github followers" />
   <img src="https://img.shields.io/badge/dynamic/json?label=cari%20stars&query=%24.stargazers_count&url=https://api.github.com/repos/adiprmx/cari&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari stars live" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fitsadip.pythonanywhere.com%2Fhealth&query=%24.version&label=cari+engine&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari engine version live" />
-  <img src="https://img.shields.io/github/last-commit/adiprmx/cari?style=flat-square&color=f59e0b&labelColor=0d1117" alt="cari last commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/adiprmx/cari?style=flat-square&color=f59e0b&labelColor=0d1117&label=commits%2Fmonth" alt="cari commits per month" />
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fadiprmx.github.io%2Fcari%2F&style=flat-square&label=cari+demo&color=f59e0b&labelColor=0d1117" alt="cari demo status" />
   <img src="https://img.shields.io/github/actions/workflow/status/adiprmx/adiprmx/snake.yml?label=snake&style=flat-square&color=f59e0b&labelColor=0d1117&logo=githubactions&logoColor=white" alt="snake workflow status" />
 </p>
 
