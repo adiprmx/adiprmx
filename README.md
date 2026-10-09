@@ -69,6 +69,7 @@ Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata ora
 <p align="center">
   <a href="https://github.com/adiprmx"><img src="https://img.shields.io/badge/GitHub-%40adiprmx-f59e0b?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://adiprmx.github.io/cari/"><img src="https://img.shields.io/badge/CARI-Live_Demo-f59e0b?style=flat-square" alt="cari live demo" /></a>
+  <a href="https://tools.adipmusic.my.id/"><img src="https://img.shields.io/badge/ADIP_Tools-Live_Demo-f59e0b?style=flat-square" alt="adip-tools live demo" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=110&section=footer" />
