@@ -48,10 +48,7 @@ Everything I release is free. I work by one rule: no result is better than a car
   <a href="https://github.com/adiprmx/adip-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=adip-tools&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9&hide_border=true&border_radius=10" alt="adip-tools" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/adiprmx/mediadownloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=mediadownloader&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9&hide_border=true&border_radius=10" alt="mediadownloader" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/adiprmx/adip-portofolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=adip-portofolio&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9&hide_border=true&border_radius=10" alt="adip-portofolio" /></a>
+  <a href="https://github.com/adiprmx/catatan-linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=catatan-linux&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9&hide_border=true&border_radius=10" alt="catatan-linux" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/adiprmx/adiprmx/main/assets/divider.svg" alt="" />
