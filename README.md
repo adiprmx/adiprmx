@@ -59,7 +59,7 @@ Everything I release is free. I work by one rule: no result is better than a car
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,git,github,markdown&theme=dark&perline=7" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark&perline=4" alt="tech stack: javascript, html, css, python" />
 </p>
 
 <img src="https://raw.githubusercontent.com/adiprmx/adiprmx/main/assets/divider.svg" alt="" />
