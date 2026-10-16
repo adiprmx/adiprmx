@@ -15,9 +15,9 @@
 
 <img src="https://raw.githubusercontent.com/adiprmx/adiprmx/main/assets/divider.svg" alt="" />
 
-<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=adiprmx&show_icons=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ffffff&icon_color=c9d1d9&text_color=c9d1d9" alt="github stats" />
-
 ## About
+
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=adiprmx&show_icons=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ffffff&icon_color=c9d1d9&text_color=c9d1d9" alt="github stats" />
 
 I'm Nadhif, known online as adip. I design and build software with nothing but a phone.
 
