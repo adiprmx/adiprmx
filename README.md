@@ -8,10 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=adiprmx&label=views&color=8b949e&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/adiprmx?label=followers&style=flat-square&color=8b949e" alt="github followers" />
   <img src="https://img.shields.io/badge/dynamic/json?label=cari%20stars&query=%24.stargazers_count&url=https://api.github.com/repos/adiprmx/cari&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari stars live" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fitsadip.pythonanywhere.com%2Fhealth&query=%24.version&label=cari+engine&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari engine version live" />
   <img src="https://img.shields.io/badge/dynamic/json?label=atlys%20stars&query=%24.stargazers_count&url=https://api.github.com/repos/adiprmx/atlys&color=f59e0b&labelColor=0d1117&style=flat-square" alt="atlys stars live" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fitsadip.pythonanywhere.com%2Fhealth&query=%24.version&label=cari+engine&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari engine version live" />
   <img src="https://img.shields.io/github/actions/workflow/status/adiprmx/adiprmx/snake.yml?label=snake&style=flat-square&color=f59e0b&labelColor=0d1117&logo=githubactions&logoColor=white" alt="snake workflow status" />
 </p>
+
+## Tentang gue
+
+Gue Nadhif, panggil aja adip. Semua yang gue bangun lahir dari HP — modal cuma internet sama ambisi yang kata orang ketinggian.
+
+Prinsip gue simpel: **nol hasil lebih baik daripada hasil ngawur**. Kalau bisa dibangun gratis, ngapain bayar?
 
 ```javascript
 const adip = {
@@ -19,13 +25,19 @@ const adip = {
   panggil: "adip",
   modal: ["HP", "internet", "ambisi"],
   prinsip: "nol hasil > hasil ngawur",
-  lagiGarap: ["CARI", "SYNAPSE", "adip-tools", "atlys"],
 };
 ```
 
-Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata orang ketinggian. Kalau bisa dibangun gratis, ngapain bayar?
+## Lagi digarap
 
-### Pameran proyek
+| Proyek | Ceritanya | Status |
+|---|---|---|
+| **[atlys](https://github.com/adiprmx/atlys)** | 47 skill kurasi buat AI coding agents — design, writing, engineering. Install sekali, langsung pakai. | 🟢 Live |
+| **[CARI](https://adiprmx.github.io/cari/)** | Mesin pencari pribadi gue. Udah live, coba aja langsung di browser. | 🟢 Live |
+| **[adip-tools](https://tools.adipmusic.my.id/)** | Kumpulan perkakas web gue. Gratis, langsung pakai. | 🟢 Live |
+| **SYNAPSE** | Bot AI buat Telegram & Discord, jalan pakai LLM lokal. Tanpa API key pihak ketiga. | 🟡 Digarap |
+
+## Pameran proyek
 
 <p align="center">
   <a href="https://github.com/adiprmx/atlys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=atlys&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&icon_color=f59e0b&hide_border=true&border_radius=10" alt="atlys" /></a>
@@ -43,17 +55,13 @@ Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata ora
   <a href="https://github.com/adiprmx/adip-portofolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=adip-portofolio&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&icon_color=f59e0b&hide_border=true&border_radius=10" alt="adip-portofolio" /></a>
 </p>
 
-🔍 **[CARI](https://adiprmx.github.io/cari/)** — mesin pencari pribadi gue. Udah live, coba aja langsung di browser.
-🧠 **SYNAPSE** — bot AI buat Telegram & Discord, jalan pakai LLM lokal. Tanpa API key pihak ketiga. Lagi digarap serius.
-⚡ **[atlys](https://github.com/adiprmx/atlys)** — 47 skill kurasi buat AI coding agents. Install sekali (`npx skills add adiprmx/atlys`), langsung pakai.
-
-### Senjata
+## Senjata
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,py,git,github,markdown&theme=dark&perline=7" alt="tech stack" />
 </p>
 
-### Angka-angka
+## Angka-angka
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adiprmx&show_icons=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9" alt="github stats" />
