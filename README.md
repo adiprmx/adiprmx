@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/followers/adiprmx?label=followers&style=flat-square&color=8b949e" alt="github followers" />
   <img src="https://img.shields.io/badge/dynamic/json?label=cari%20stars&query=%24.stargazers_count&url=https://api.github.com/repos/adiprmx/cari&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari stars live" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fitsadip.pythonanywhere.com%2Fhealth&query=%24.version&label=cari+engine&color=f59e0b&labelColor=0d1117&style=flat-square" alt="cari engine version live" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=atlys%20stars&query=%24.stargazers_count&url=https://api.github.com/repos/adiprmx/atlys&color=f59e0b&labelColor=0d1117&style=flat-square" alt="atlys stars live" />
   <img src="https://img.shields.io/github/actions/workflow/status/adiprmx/adiprmx/snake.yml?label=snake&style=flat-square&color=f59e0b&labelColor=0d1117&logo=githubactions&logoColor=white" alt="snake workflow status" />
 </p>
 
@@ -18,7 +19,7 @@ const adip = {
   panggil: "adip",
   modal: ["HP", "internet", "ambisi"],
   prinsip: "nol hasil > hasil ngawur",
-  lagiGarap: ["CARI", "SYNAPSE", "adip-tools"],
+  lagiGarap: ["CARI", "SYNAPSE", "adip-tools", "atlys"],
 };
 ```
 
@@ -26,6 +27,9 @@ Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata ora
 
 ### Pameran proyek
 
+<p align="center">
+  <a href="https://github.com/adiprmx/atlys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=atlys&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&icon_color=f59e0b&hide_border=true&border_radius=10" alt="atlys" /></a>
+</p>
 <p align="center">
   <a href="https://github.com/adiprmx/cari"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adiprmx&repo=cari&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&icon_color=f59e0b&hide_border=true&border_radius=10" alt="CARI" /></a>
 </p>
@@ -41,6 +45,7 @@ Semua yang gue bangun lahir dari HP — modal internet sama ambisi yang kata ora
 
 🔍 **[CARI](https://adiprmx.github.io/cari/)** — mesin pencari pribadi gue. Udah live, coba aja langsung di browser.
 🧠 **SYNAPSE** — bot AI buat Telegram & Discord, jalan pakai LLM lokal. Tanpa API key pihak ketiga. Lagi digarap serius.
+⚡ **[atlys](https://github.com/adiprmx/atlys)** — 47 skill kurasi buat AI coding agents. Install sekali (`npx skills add adiprmx/atlys`), langsung pakai.
 
 ### Senjata
 
